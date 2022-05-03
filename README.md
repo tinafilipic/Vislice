@@ -10,4 +10,4 @@ To so vsi avtorji projekta
 
 # Navodila za igro
 
-Ugibaj črke. Vsakič, ko zgrešiš, se približaš smrti, vsakič ko uganeš, se približaš zmagi
+Ugibaj črke. Vsakič, ko zgrešiš, se približaš smrti, vsakič ko uganeš, se približaš zmagi.
