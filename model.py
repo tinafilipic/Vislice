@@ -5,6 +5,7 @@ NAPACNA_CRKA = '-'
 ZMAGA = 'W'
 PORAZ = 'X'
 
+
 class Igra:
     def __init__(self, geslo, crke=None):
         self.geslo = geslo.upper()
