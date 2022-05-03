@@ -1,4 +1,4 @@
 # Vislice
 
-Najtemnejša otroška igra za otroke.
+Najtemnejša otroška igra za otroke :)
 
