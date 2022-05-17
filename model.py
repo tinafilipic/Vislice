@@ -110,7 +110,7 @@ class Vislice:
 
     def zapisi_igre_v_datoteko(self):
         zapis = {}
-        for id_igre, (igra, stanje) in self.igre.items:
+        for id_igre, (igra, stanje) in self.igre.items():
             zapis[id_igre] = ((igra.geslo, igra.crke), stanje)
         with open(self.datoteka_s_stanjem, 'w') as d:
             json.dump(zapis, d)
